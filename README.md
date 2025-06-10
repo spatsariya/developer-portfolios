@@ -832,6 +832,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Taiizor](https://github.com/Taiizor) [.NET Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
+- [Tanvi Agrawal](https://aboutanvi.me) [Software Engineer]
 - [Taranjeet Singh](https://taranjeet.co)
 - [Tejas Kumar](http://tej.as)
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me)
